@@ -1,0 +1,31 @@
+                                          Modern HTML
+
+Q1) List out the features of HTML5.
+Ans)a) improved multimedia support
+b)canvase element
+c)geolocation API
+
+
+Q2) What are html entities? list out 5 commonly used html entities.
+Ans)The reserved characters used in html documents are known as HTML entities.
+a)less than  -->  &lt;
+b)greater than --> &gt;
+c)ampersand -->  &amp;
+d)double quot  --> &quot;
+e)copyright --> &copy;
+
+
+Q3)Define accessibility in the context of web development. discuss why it's essential to create accessible
+websites and how it benefits different user groups.
+ans) Web accessibility means that websites, tools, and technologies are designed and developed so that people 
+with disabilities can use them.
+
+Web accessibility also benefits people without disabilities, for example:
+
+a)people using mobile phones, smart watches, smart TVs, and other devices with small screens, different input modes, etc.
+b)older people with changing abilities due to ageing
+c)people with “temporary disabilities” such as a broken arm or lost glasses
+d)people with “situational limitations” such as in bright sunlight or in an environment where they cannot listen to audio.
+
+
+
